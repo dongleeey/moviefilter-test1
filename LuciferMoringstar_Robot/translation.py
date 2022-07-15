@@ -39,7 +39,7 @@ ABOUT_MESSAGE = """
 𝙱𝙾𝚃 𝚃𝚈𝙿𝙴 : 𝙰𝚄𝚃𝙾𝙵𝙸𝙻𝚃𝙴𝚁
 𝙱𝙾𝚃 𝙱𝚁𝙰𝙽𝙲𝙷 : Heaven
 𝙱𝙾𝚃 𝙻𝙸𝙲𝙴𝙽𝚂𝙴 : [𝙲𝙻𝙸𝙲𝙺 𝙷𝙴𝚁𝙴](https://t.me/AdultsHeaven)
-𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [HEAVEN](t.me/PR0FESS0R_99)
+𝙳𝙴𝚅𝙴𝙻𝙾𝙿𝙴𝚁 : [HEAVEN](https://t.me/AdultsHeaven)
 𝙲𝚁𝙴𝙰𝚃𝙾𝚁 : [{name}](https://t.me/{username})
 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴 : 𝙿𝚈𝚃𝙷𝙾𝙽3 : {py3_version}
 𝙻𝙸𝙱𝚁𝙰𝚁𝚈 : 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼 : {pyro_version}
